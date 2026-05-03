@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://albanyantree.com/insights/marine-fuel-market-responds-to-shock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T14:26:45Z</news:publication_date>
+      <news:title>Marine Fuel Market Responds to Shock | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://albanyantree.com/insights/the-impact-of-the-hormuz-crisis/</loc>
     <news:news>
       <news:publication>
@@ -9,6 +20,17 @@
       </news:publication>
       <news:publication_date>2026-05-01T14:26:45Z</news:publication_date>
       <news:title>The Middle East Conflict &amp; Global Fertilizer Market | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://albanyantree.com/insights/global-steel-market-outlook/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T14:26:44Z</news:publication_date>
+      <news:title>Global Steel Market Outlook &amp; Forecast | Al Banyan Tree</news:title>
     </news:news>
   </url>
   <url>
@@ -64,6 +86,17 @@
       </news:publication>
       <news:publication_date>2026-05-01T14:26:44Z</news:publication_date>
       <news:title>Southeast Asia Rebar Markets &amp; Supply Chains | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://albanyantree.com/insights/marine-gasoil-spread-sanctions-effect/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T14:26:44Z</news:publication_date>
+      <news:title>Market value of Marine Gasoil: sanctions effect on the price spread | Al Banyan Tree</news:title>
     </news:news>
   </url>
 </urlset>
