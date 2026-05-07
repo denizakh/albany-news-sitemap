@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://albanyantree.com/insights/the-impact-of-the-hormuz-crisis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T12:49:16Z</news:publication_date>
+      <news:title>The Middle East Conflict &amp; Global Fertilizer Market | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://albanyantree.com/insights/marine-fuel-market-responds-to-shock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T12:44:31Z</news:publication_date>
+      <news:title>Marine Fuel Market Responds to Shock | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://albanyantree.com/insights/marine-gasoil-spread-sanctions-effect/</loc>
     <news:news>
       <news:publication>
         <news:name>Albany &amp; Tree</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T14:40:39Z</news:publication_date>
-      <news:title>Market value of Marine Gasoil: sanctions effect on the price spread | Al Banyan Tree</news:title>
+      <news:publication_date>2026-05-07T12:43:26Z</news:publication_date>
+      <news:title>Marine Gasoil Market Value: Sanctions Impact | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://albanyantree.com/insights/southeast-asia-rebar-markets-and-supply-chains/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-07T12:39:14Z</news:publication_date>
+      <news:title>Southeast Asia Rebar Markets &amp; Supply Chains | Al Banyan Tree</news:title>
     </news:news>
   </url>
   <url>
@@ -18,7 +51,7 @@
         <news:name>Albany &amp; Tree</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T13:59:58Z</news:publication_date>
+      <news:publication_date>2026-05-07T12:38:48Z</news:publication_date>
       <news:title>China Rebar Market: Demand &amp; Supply Overview | Al Banyan Tree</news:title>
     </news:news>
   </url>
@@ -29,7 +62,7 @@
         <news:name>Albany &amp; Tree</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T13:59:29Z</news:publication_date>
+      <news:publication_date>2026-05-07T12:38:24Z</news:publication_date>
       <news:title>China Rebar Market: Export Trends Overview | Al Banyan Tree</news:title>
     </news:news>
   </url>
@@ -40,7 +73,7 @@
         <news:name>Albany &amp; Tree</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T13:59:13Z</news:publication_date>
+      <news:publication_date>2026-05-07T12:37:43Z</news:publication_date>
       <news:title>China Rebar Market: Prices &amp; Margins Overview | Al Banyan Tree</news:title>
     </news:news>
   </url>
@@ -51,19 +84,8 @@
         <news:name>Albany &amp; Tree</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-05-06T13:57:46Z</news:publication_date>
+      <news:publication_date>2026-05-07T12:37:17Z</news:publication_date>
       <news:title>Rebar Market Analysis &amp; Price Forecasts | Al Banyan Tree</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://albanyantree.com/insights/southeast-asia-rebar-markets-and-supply-chains/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Albany &amp; Tree</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T13:56:04Z</news:publication_date>
-      <news:title>Southeast Asia Rebar Markets &amp; Supply Chains | Al Banyan Tree</news:title>
     </news:news>
   </url>
 </urlset>
