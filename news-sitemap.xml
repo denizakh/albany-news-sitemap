@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://albanyantree.com/insights/the-impact-of-the-hormuz-crisis/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T12:00:26Z</news:publication_date>
+      <news:title>The Middle East Conflict &amp; Global Fertilizer Market | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://albanyantree.com/insights/marine-fuel-market-responds-to-shock/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Albany &amp; Tree</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T11:55:35Z</news:publication_date>
+      <news:title>Marine Fuel Market Responds to Shock | Al Banyan Tree</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://albanyantree.com/insights/southeast-asia-rebar-markets-and-supply-chains/</loc>
     <news:news>
       <news:publication>
@@ -20,28 +42,6 @@
       </news:publication>
       <news:publication_date>2026-05-20T06:16:20Z</news:publication_date>
       <news:title>Marine Gasoil Market Value: Sanctions Impact | Al Banyan Tree</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://albanyantree.com/insights/marine-fuel-market-responds-to-shock/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Albany &amp; Tree</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:16:20Z</news:publication_date>
-      <news:title>Marine Fuel Market Responds to Shock | Al Banyan Tree</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://albanyantree.com/insights/the-impact-of-the-hormuz-crisis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Albany &amp; Tree</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:16:20Z</news:publication_date>
-      <news:title>The Middle East Conflict &amp; Global Fertilizer Market | Al Banyan Tree</news:title>
     </news:news>
   </url>
   <url>
